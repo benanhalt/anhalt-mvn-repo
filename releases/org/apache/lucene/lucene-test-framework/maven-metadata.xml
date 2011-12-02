@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.lucene</groupId>
+  <artifactId>lucene-test-framework</artifactId>
+  <version>3.4-specify</version>
+  <versioning>
+    <versions>
+      <version>3.4-specify</version>
+    </versions>
+    <lastUpdated>20111202204324</lastUpdated>
+  </versioning>
+</metadata>

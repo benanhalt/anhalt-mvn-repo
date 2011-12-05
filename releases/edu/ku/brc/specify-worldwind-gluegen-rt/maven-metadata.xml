@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.ku.brc</groupId>
+  <artifactId>specify-worldwind-gluegen-rt</artifactId>
+  <version>0.6.0</version>
+  <versioning>
+    <versions>
+      <version>0.6.0</version>
+    </versions>
+    <lastUpdated>20111205223221</lastUpdated>
+  </versioning>
+</metadata>
